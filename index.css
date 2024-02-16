@@ -6,14 +6,12 @@ body{
     justify-content: center;
     align-content: center;
     margin-top: 15%;
-    border-radius: 10px;
 }
 .QR{
     box-shadow: 0 4px 8px 0  hsl(220, 15%, 55%);
     width: 320px;
     height: 360px;
     background-color:   hsl(0, 0%, 100%)
-    border-radius: 10px;
 }
 
 .QR:hover{
